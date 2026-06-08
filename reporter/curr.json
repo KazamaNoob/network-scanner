@@ -1,0 +1,1 @@
+[{"ip":"192.168.1.1","port":22,"status":"open","service":"SSH","banner":"SSH-2.0-OpenSSH_9.0","response_ms":98.2},{"ip":"192.168.1.1","port":80,"status":"open","service":"HTTP (Nginx)","banner":"HTTP/1.1 200 OK","response_ms":88.3}]
